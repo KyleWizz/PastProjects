@@ -1,0 +1,4 @@
+"What is 2+2 | 4"
+"What is the capital of England? | London"
+"What year did WWII end? | 1945"
+"What is J.K Rowlings famous work? | Harry Potter"
