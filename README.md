@@ -25,3 +25,6 @@
 - Prompts user to confirm undo
 - Removal commands are stored in a stack
 - Undo most recently executed command
+# AE3 Project
+-Group project I worked on doing seam carving with two of my peers
+
