@@ -9,4 +9,8 @@
 - Currently, we're integrating our PID controller with a needle valve, processing sensor inputs and tuning control parameters to achieve precise flow regulation. I am developing skills in C++, and also how to work with firmware in a hands-on practical setting. Our current launch date for our rocket is in Spring of 2027.
 
 # Side Note
-- I have many projects in python that unfortunately were deleted with my old repl.it account, however I do have experience working with many python libraries as I stated in my resume. I am also working on a data science project right now for one of my classes which I will promptly add as soon as I am done. In this group project, I am working to write a machine learning predictive model using python and jupyter, however I also have experience in collab and VScode when it comes to data analysis.
+- I have many projects in python that unfortunately were deleted with my old repl.it account, however I do have experience working with many python libraries as I stated in my resume. I am also working on a data science project right now for one of my classes which I will promptly add as soon as I am done. In my Data Science class's group project, I am working to write a machine learning predictive model using python and jupyter, however I also have experience in collab and VScode when it comes to data analysis.
+
+#Currently doing:
+- I am currently working on data analysis and designing a program that converts spectra into images based on data (specifically csv's) in order to take in data straight from the camera in a real life-detecting situation.
+- Brushing up my skills on PyTorch - I have done pytorch in the past but am currently re-acquainting myself with its syntax and performance. Also working on a small voltage reader for Aerospace NU.
