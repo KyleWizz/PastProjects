@@ -1,4 +1,4 @@
-#project to create new variants of genes basically
+#project to predict certain variations that have an effect. Very early stages. Much research must be done
 import torch
 import torch.nn as nn
 import torch.nn.functional as f
@@ -10,3 +10,4 @@ import numpy as np
 class Net(nn.Module):
     def __init__(self):
         super().__init__()
+
