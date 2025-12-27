@@ -1,0 +1,47 @@
+#Transcript Test
+15
+____
+CONTROL BOARD
+Strategy: CONTROL BOARD (mess up opponent to win maximum)
+
+Current hand: [(Val:1,Cost:1 TestCard), (Val:1,Cost:1 TestCard), (Val:1,Cost:1 TestCard), (Val:1,Cost:1 TestCard), (Val:1,Cost:1 TestCard)]
+checking row 0 col 0
+Move = control
+checking row 0 col 1
+checking row 0 col 2
+checking row 0 col 3
+checking row 0 col 4
+checking row 1 col 0
+checking row 1 col 1
+checking row 1 col 2
+checking row 1 col 3
+checking row 1 col 4
+checking row 2 col 0
+checking row 2 col 1
+checking row 2 col 2
+checking row 2 col 3
+checking row 2 col 4
+No moves found
+
+FINAL MOVE: Card 0 at (0, 0)
+
+#Other tests
+15
+0
+Current hand: []
+checking row 0 col 0
+checking row 0 col 1
+checking row 0 col 2
+checking row 0 col 3
+checking row 0 col 4
+checking row 1 col 0
+checking row 1 col 1
+checking row 1 col 2
+checking row 1 col 3
+checking row 1 col 4
+checking row 2 col 0
+checking row 2 col 1
+checking row 2 col 2
+checking row 2 col 3
+checking row 2 col 4
+No moves found

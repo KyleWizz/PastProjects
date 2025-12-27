@@ -1,0 +1,29 @@
+#Transcript move test
+15
+____
+MAX ROW STRATEGY
+Strategy: MAX ROW (win as many rows as possible)
+
+Current hand: [(Val:1,Cost:1 TestCard), (Val:1,Cost:1 TestCard), (Val:1,Cost:1 TestCard), (Val:1,Cost:1 TestCard), (Val:1,Cost:1 TestCard)]
+Checking row: 0
+AIScore: 0
+  Trying card 0: TestCard (cost: 1)
+Placing card
+Move = maxRow done
+
+FINAL MOVE: Card 0 at (0, 0)
+#Other Tests
+15
+-
+Test maxRow invalid
+0
+Hand is empty, no moves possible
+15
+-
+Test maxRow valid
+This cell has maximum pawns.
+Current hand: [(Val:1,Cost:1 TestCard), (Val:1,Cost:1 TestCard), (Val:1,Cost:1 TestCard), (Val:1,Cost:1 TestCard), (Val:1,Cost:1 TestCard)]
+Checking row: 0
+AIScore: 0
+  Trying card 0: TestCard (cost: 1)
+Placing card

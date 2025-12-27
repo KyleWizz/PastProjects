@@ -1,0 +1,45 @@
+#Overview
+Right now we only know about RED and BLUE. We need to figure out who is actually
+making the decisions for each of these players. Is it the user, or a computer program.
+
+We won't need to change the model. The model just needs to know that someone wants to place a card at a
+position, and it will either say that that is legal or will stop you from doing it.
+
+we will observe what the game state is:
+state of board
+state of hand
+state of scores
+and see the turns of the players
+
+After we need to decide what we want to do:
+We can either place a card or pass the turn
+
+After we do that we need to get the feedback:
+Did the move succeed?
+throw error if it does not and tell us why?
+Check if the game is over if both
+
+The player will return an action
+not moving the card themselves but will just say what they want
+
+the model will read this
+
+then will give them feedback
+
+Players turn:
+show them the board and cards
+the person will do there move and will either succeed or fail
+
+AI turn:
+Look at the possible moves and pick randomly
+then return
+
+
+looping:
+Turn
+ask the move they want to do
+try move
+and return if it worked or not
+then switch turns
+
+This will work for Human and AI

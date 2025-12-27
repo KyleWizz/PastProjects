@@ -1,0 +1,14 @@
+#Transcript Test
+15
+____
+FILL STRATEGY TRANSCRIPT
+Strategy: Fill First (choose first valid card and location)
+
+Current hand: [(Val:1,Cost:1 TestCard), (Val:1,Cost:1 TestCard), (Val:1,Cost:1 TestCard), (Val:1,Cost:1 TestCard), (Val:1,Cost:1 TestCard)]
+Checking row: 0,0
+Red Placed0 at: 0 0
+Redplaced: TestCard at: 0 0
+Move = fillStrategy
+
+FINAL MOVE: Card 0 at (0, 0)
+#Other Tests

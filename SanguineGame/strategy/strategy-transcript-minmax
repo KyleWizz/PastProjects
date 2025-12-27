@@ -1,0 +1,236 @@
+#Transcript test:
+15
+Test minmaxvalid
+This cell has maximum pawns.
+Current hand: [(Val:1,Cost:1 TestCard), (Val:1,Cost:1 TestCard), (Val:1,Cost:1 TestCard), (Val:1,Cost:1 TestCard), (Val:1,Cost:1 TestCard)]
+Checking row: 0,0
+opponent score: 0
+oppenent curr score0
+AI score: 0
+AI score total: 1opponent: Blue
+opponent score: 0
+oppenent curr score0
+AI score: 0
+AI score total: 1opponent: Blue
+opponent score: 0
+oppenent curr score0
+AI score: 0
+AI score total: 1opponent: Blue
+Overall advantage: 1
+Move = minMax
+opponent score: 0
+oppenent curr score0
+AI score: 0
+AI score total: 1opponent: Blue
+opponent score: 0
+oppenent curr score0
+AI score: 0
+AI score total: 1opponent: Blue
+opponent score: 0
+oppenent curr score0
+AI score: 0
+AI score total: 1opponent: Blue
+Overall advantage: 1
+opponent score: 0
+oppenent curr score0
+AI score: 0
+AI score total: 1opponent: Blue
+opponent score: 0
+oppenent curr score0
+AI score: 0
+AI score total: 1opponent: Blue
+opponent score: 0
+oppenent curr score0
+AI score: 0
+AI score total: 1opponent: Blue
+Overall advantage: 1
+opponent score: 0
+oppenent curr score0
+AI score: 0
+AI score total: 1opponent: Blue
+opponent score: 0
+oppenent curr score0
+AI score: 0
+AI score total: 1opponent: Blue
+opponent score: 0
+oppenent curr score0
+AI score: 0
+AI score total: 1opponent: Blue
+Overall advantage: 1
+opponent score: 0
+oppenent curr score0
+AI score: 0
+AI score total: 1opponent: Blue
+opponent score: 0
+oppenent curr score0
+AI score: 0
+AI score total: 1opponent: Blue
+opponent score: 0
+oppenent curr score0
+AI score: 0
+AI score total: 1opponent: Blue
+Overall advantage: 1
+Checking row: 0,1
+Checking row: 0,2
+Checking row: 0,3
+Checking row: 0,4
+Checking row: 1,0
+opponent score: 0
+oppenent curr score0
+AI score: 0
+AI score total: 0opponent: Blue
+opponent score: 0
+oppenent curr score0
+AI score: 0
+AI score total: 1opponent: Blue
+opponent score: 0
+oppenent curr score0
+AI score: 0
+AI score total: 1opponent: Blue
+Overall advantage: 1
+opponent score: 0
+oppenent curr score0
+AI score: 0
+AI score total: 0opponent: Blue
+opponent score: 0
+oppenent curr score0
+AI score: 0
+AI score total: 1opponent: Blue
+opponent score: 0
+oppenent curr score0
+AI score: 0
+AI score total: 1opponent: Blue
+Overall advantage: 1
+opponent score: 0
+oppenent curr score0
+AI score: 0
+AI score total: 0opponent: Blue
+opponent score: 0
+oppenent curr score0
+AI score: 0
+AI score total: 1opponent: Blue
+opponent score: 0
+oppenent curr score0
+AI score: 0
+AI score total: 1opponent: Blue
+Overall advantage: 1
+opponent score: 0
+oppenent curr score0
+AI score: 0
+AI score total: 0opponent: Blue
+opponent score: 0
+oppenent curr score0
+AI score: 0
+AI score total: 1opponent: Blue
+opponent score: 0
+oppenent curr score0
+AI score: 0
+AI score total: 1opponent: Blue
+Overall advantage: 1
+opponent score: 0
+oppenent curr score0
+AI score: 0
+AI score total: 0opponent: Blue
+opponent score: 0
+oppenent curr score0
+AI score: 0
+AI score total: 1opponent: Blue
+opponent score: 0
+oppenent curr score0
+AI score: 0
+AI score total: 1opponent: Blue
+Overall advantage: 1
+Checking row: 1,1
+Checking row: 1,2
+Checking row: 1,3
+Checking row: 1,4
+Checking row: 2,0
+opponent score: 0
+oppenent curr score0
+AI score: 0
+AI score total: 0opponent: Blue
+opponent score: 0
+oppenent curr score0
+AI score: 0
+AI score total: 0opponent: Blue
+opponent score: 0
+oppenent curr score0
+AI score: 0
+AI score total: 1opponent: Blue
+Overall advantage: 1
+opponent score: 0
+oppenent curr score0
+AI score: 0
+AI score total: 0opponent: Blue
+opponent score: 0
+oppenent curr score0
+AI score: 0
+AI score total: 0opponent: Blue
+opponent score: 0
+oppenent curr score0
+AI score: 0
+AI score total: 1opponent: Blue
+Overall advantage: 1
+opponent score: 0
+oppenent curr score0
+AI score: 0
+AI score total: 0opponent: Blue
+opponent score: 0
+oppenent curr score0
+AI score: 0
+AI score total: 0opponent: Blue
+opponent score: 0
+oppenent curr score0
+AI score: 0
+AI score total: 1opponent: Blue
+Overall advantage: 1
+opponent score: 0
+oppenent curr score0
+AI score: 0
+AI score total: 0opponent: Blue
+opponent score: 0
+oppenent curr score0
+AI score: 0
+AI score total: 0opponent: Blue
+opponent score: 0
+oppenent curr score0
+AI score: 0
+AI score total: 1opponent: Blue
+Overall advantage: 1
+opponent score: 0
+oppenent curr score0
+AI score: 0
+AI score total: 0opponent: Blue
+opponent score: 0
+oppenent curr score0
+AI score: 0
+AI score total: 0opponent: Blue
+opponent score: 0
+oppenent curr score0
+AI score: 0
+AI score total: 1opponent: Blue
+Overall advantage: 1
+Checking row: 2,1
+Checking row: 2,2
+Checking row: 2,3
+Checking row: 2,4
+#Other tests (inval):
+15
+0
+Current hand: []
+Checking row: 0,0
+Checking row: 0,1
+Checking row: 0,2
+Checking row: 0,3
+Checking row: 0,4
+Checking row: 1,0
+Checking row: 1,1
+Checking row: 1,2
+Checking row: 1,3
+Checking row: 1,4
+Checking row: 2,0
+Checking row: 2,1
+Checking row: 2,2
+Checking row: 2,3
+Checking row: 2,4
+No moves found
